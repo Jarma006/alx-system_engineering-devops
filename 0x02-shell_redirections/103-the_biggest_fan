@@ -1,0 +1,2 @@
+#!/bin/bash
+tall -n +2 | cut F -1 | sort -k 1 | uniq =C | sort -rak 1 | head -11 | rev | cut -d "F" -1 | rev
