@@ -1,0 +1,2 @@
+#!/bin/bash
+printf'%s\n' $(echo $((5#$(ech0 $WATer '01234')) + $((5#$(echo $atir | tr 'stir.' '01234'))))) | tr '01234567' 'bestchol'
